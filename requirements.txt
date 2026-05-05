@@ -1,0 +1,5 @@
+colorama
+edge-tts
+pygame
+tabulate
+tqdm
