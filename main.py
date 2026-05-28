@@ -8,7 +8,7 @@ import os
 
 
 class WordLearningApp:
-    """以page_path为准，current_content有滞后性"""
+    “”“Main app class”“”
 
     def __init__(self):
 
